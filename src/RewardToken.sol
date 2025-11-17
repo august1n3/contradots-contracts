@@ -87,4 +87,3 @@ contract RewardToken {
         emit Transfer(from, to, amount);
         return true;
     }
-}
